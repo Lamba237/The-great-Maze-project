@@ -1,5 +1,5 @@
 #include "../inc/utils.h"
-#include "defs.h"
+#include "../inc/defs.h"
 #include <math.h>
 
 void    normalizeAngle(float *angle)

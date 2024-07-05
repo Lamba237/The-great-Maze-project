@@ -1,6 +1,6 @@
-#include "sprite.h"
-#include "utils.h"
-#include "ray.h"
+#include "../inc/sprite.h"
+#include "../inc/utils.h"
+#include "../inc/ray.h"
 
 static sprite_t	sprites[NUM_SPRITES] =
 {

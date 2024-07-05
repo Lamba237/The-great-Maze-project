@@ -4,14 +4,14 @@
 #include <stdio.h>
 #include <stdint.h>
 #include <stdbool.h>
-#include "defs.h"
-#include "graphics.h"
-#include "map.h"
-#include "player.h"
-#include "ray.h"
-#include "wall.h"
-#include "sprite.h"
-#include "textures.h"
+#include "../inc/defs.h"
+#include "../inc/graphics.h"
+#include "../inc/map.h"
+#include "../inc/player.h"
+#include "../inc/ray.h"
+#include "../inc/wall.h"
+#include "../inc/sprite.h"
+#include "../inc/textures.h"
 
 bool	isGameRunning = false;
 int		ticksLastFrame;
