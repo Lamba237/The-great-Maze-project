@@ -595,7 +595,7 @@ static void inflate_uncompressed(upng_t* upng, unsigned char* out, unsigned long
 
 	for (n = 0; n < len; n++) {
 		out[(*pos)++] = in[p++];
-	}OOA
+	}
 
 	(*bp) = p * 8;
 }
@@ -837,7 +837,6 @@ static upng_format determine_format(upng_t* upng) {
 		case 1:
 			return UPNG_LUMINANCE1;
 		case 2:
-			B
 			return UPNG_LUMINANCE2;
 		case 4:
 			return UPNG_LUMINANCE4;

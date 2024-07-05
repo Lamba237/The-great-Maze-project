@@ -1,4 +1,4 @@
-include "../inc/wall.h"
+#include "../inc/wall.h"
 
 // Change the color intensity based on factor value between 0 and 1
 void    changeColorIntensity(color_t *color, float factor)
