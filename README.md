@@ -22,5 +22,6 @@ Here's a step by step guide on installing the Maze game on your system.
 1) Begin by cloning the repository
 ```
 git clone https://github.com/Lamba237/The-great-Maze-project.git
+cd The-great-Maze-project
 ```
 
