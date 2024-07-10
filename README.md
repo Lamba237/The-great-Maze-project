@@ -22,7 +22,6 @@ Here's a step by step guide on installing the Maze game on your system.
 1) Begin by cloning the repository from GitHub to your Local machine
 ```
 git clone https://github.com/Lamba237/The-great-Maze-project.git
-cd The-great-Maze-project
 ```
 
 2) Install the SDL2 Library on your system
@@ -33,6 +32,19 @@ sudo apt-get install libsdl2-dev
 * On MacOS
 ```
 brew install sdl2
+```
+## Usage
+1) Enter into the github directory on your local machine
+```
+cd The-great-Maze-project
+```
+2) Compile using the C compiler
+```
+gcc -std=c99 ./src/*.c -lSDL2 -lm -o raycast
+```
+3) Run your application after you've compiled
+```
+.\raycast
 ```
 ![image](https://github.com/Lamba237/The-great-Maze-project/assets/129569062/db04ce59-c054-45d9-91dd-006850c7e643)
 ## Contributing
