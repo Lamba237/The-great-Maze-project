@@ -15,3 +15,5 @@
 Here's a step by step guide on installing the Maze game on your system.
 
 ## Prerequisites
+1) SDL2: Make sure you have SDL2 installed on your system
+2) Compiler: Make sure you have a C compiler installed (eg., GCC for Linux, MINGW for windows, Xcode for MacOS)
