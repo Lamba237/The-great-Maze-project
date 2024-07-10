@@ -19,9 +19,18 @@ Here's a step by step guide on installing the Maze game on your system.
 2) Compiler: Make sure you have a C compiler installed (eg., GCC for Linux, MINGW for windows, Xcode for MacOS)
 
 ## Steps
-1) Begin by cloning the repository
+1) Begin by cloning the repository from GitHub to your Local machine
 ```
 git clone https://github.com/Lamba237/The-great-Maze-project.git
 cd The-great-Maze-project
 ```
 
+2) Install the SDL2 Library on your system
+   * On Ubuntu 20.04
+```
+sudo apt-get install libsdl2-dev
+```
+   * On MacOS
+```
+brew install sdl2
+```
