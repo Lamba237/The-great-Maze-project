@@ -26,11 +26,11 @@ cd The-great-Maze-project
 ```
 
 2) Install the SDL2 Library on your system
-   * On Ubuntu 20.04
+* On Ubuntu 20.04
 ```
 sudo apt-get install libsdl2-dev
 ```
-   * On MacOS
+* On MacOS
 ```
 brew install sdl2
 ```
