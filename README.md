@@ -35,7 +35,7 @@ sudo apt-get install libsdl2-dev
 brew install sdl2
 ```
 
-[The Maze](<img width="576" alt="maze pic1" src="https://github.com/Lamba237/The-great-Maze-project/assets/129569062/1fd71b9e-f7ff-4c4b-98a0-8fe495c51c18">)
+[The Maze](<img width="576" alt="maze pic1" src="https://github.com/Lamba237/The-great-Maze-project/assets/129569062/61d8ee6c-c0ba-403a-b664-3cc2681ee85a">)
 
 ## Contributing
 [Simon Tanyi's Github](https://github.com/Lamba237)
